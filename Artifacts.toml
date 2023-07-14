@@ -1,0 +1,208 @@
+[[AlgoimDiff]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "17499d0669e92298a3bf513996bca8b6730c7f3c"
+libc = "glibc"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "be19fa4ee2e15f089560b1a9b8a78582a0f6eee0ac9b94a98a0965f60ab6ce27"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[AlgoimDiff]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cdebff9c6b5022502fe8b017969074f1ed3e88f7"
+libc = "glibc"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "7437c91cefb3f2bd9d872ac044b8c5328133b3484f2926a1dfd0f4986616253e"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[AlgoimDiff]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "de0b82bd7ea36860818fe7c26225f24c55a2240e"
+libc = "musl"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "a96119a6edb87194cbea37cd5d4fbd4a775cc4b5eba72d6e189c22135c041887"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[AlgoimDiff]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6002e2cfcd5003acd94459612ba233f95eea8eae"
+libc = "musl"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "f9b4310b92b7422f349b4829a89bab8560db0e4d5c647955212497a275a7658a"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[AlgoimDiff]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "eb707ab631b720e67db2f513e91da9640fe1031c"
+libc = "glibc"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "d180c60078b4b785981ab0031522d3d71d763736ac916f8026fc992ded85da83"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[AlgoimDiff]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "15db677f3a19e4cb06e31611dc1ee0708b3edb12"
+libc = "glibc"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "93083fec2e382fddee734f40dc1a15cf6cfc51dce5b75b7cab77ad5e8e8ff652"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[AlgoimDiff]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "04cd56b00d00370408b86718faab60f0f75afe98"
+libc = "musl"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "84bf07f07d82012a159365133bdbc69b48b233f91fb9ed58a86672550739f9c6"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[AlgoimDiff]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "36499c742b73456999f7e988910be9e747e5ebcd"
+libc = "musl"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "acf1b371132aaa5d53be5dec63fb7b309a832fd423314126bc0e62e24af7361d"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[AlgoimDiff]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "939a61da341ac561d5b311c5d322b1c98c92bde5"
+libc = "glibc"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "46768ab2b2f2cfa6a290030c4d94ef200647f8738541535c09d6a8c0052ad881"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[AlgoimDiff]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fdc48e490fc8e381cb9c498fbc8761fb1d79e7f1"
+libc = "glibc"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "7f85443cb5772c7089d4e10da7f8bbe294b02c43d6f9d9e4878b41ba1488a121"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[AlgoimDiff]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "724ad303946245fc90a472bfaa1ef9b6b45899ad"
+libc = "musl"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "3d3b803bed8fca8c4d30f3cdc6d293a1f69fd8d5b7afe3a8811fc8393d2701d8"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[AlgoimDiff]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6ceabe3cf324815934b28fbd66c9a82dce20cceb"
+libc = "musl"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "dbf6143858f910cef674e95d98bf209add4c4030bb2b30a1c152a0a326fb68b7"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[AlgoimDiff]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dec52ec374ec9fdf8a03623566806da4a2806aec"
+libc = "glibc"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "3422b09b4c7682ddbc57dd18dd30aa7068de61d5881334c0f8121280b544be16"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[AlgoimDiff]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1c45649c1a1501285474dff0ba1b2fd567ee747c"
+libc = "glibc"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "51d73eaf32f3d50d0451a795e8d5d96facb5c99bf83dd76e571ae7a67d0c170f"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[AlgoimDiff]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1f5a1840590e8143f9696574b515d0c31de06244"
+libc = "glibc"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "ef5a36e986768edf0ad0ce815b5d77631c5279f446e65becae447677eb3b1355"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[AlgoimDiff]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "883c8b8dfd76bf1639f5d80a782f2294a4f23771"
+libc = "glibc"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "cd6efb260d2200b59be89cc65e0eaa8e3349e8b7ef94bd2fb89baed93a123ee0"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[AlgoimDiff]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d078f085ed62de75b6b3ac8912cb1e4bfd89f964"
+libc = "glibc"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "cfdbfb17db6e3757910304e9e14f08b1e98bbea8c5e4cdb1204c02aaf00dbd99"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[AlgoimDiff]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "37313240528eb35e4c7a2f3f35219d52114f455c"
+libc = "glibc"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "da5f395d2358e9f71165c997e47e5fff7c8ad912f254e3f348dda480ac662632"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[AlgoimDiff]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1801211c066945b9d28fd51a6cb1b7139b24e614"
+libc = "musl"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "e74bf2afaa5fa4f7553a4c98bc47dd1a32696bfab627824ed9c536519739c0a5"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[AlgoimDiff]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "68e9a02b9aa8580b5bff1d55622a2fafd58975da"
+libc = "musl"
+os = "linux"
+
+    [[AlgoimDiff.download]]
+    sha256 = "92ce02403093f8ab098cef8c303294fa992ee38c260eb00cf505aca83e490d0e"
+    url = "https://github.com/JuliaBinaryWrappers/AlgoimDiff_jll.jl/releases/download/AlgoimDiff-v1.0.0+0/AlgoimDiff.v1.0.0.x86_64-linux-musl-cxx11.tar.gz"
